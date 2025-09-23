@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/amarjeet" target="blank"><img src="https://img.shields.io/twitter/follow/amarjeet?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
-- 🔭 I’m currently working on [Synergy Teletech](https://synergydrishti.com/)
+- 🔭 I’m currently working on [shadvalpay ](https://banking.shadvalpay.co.in/)
 
 - 🌱 I’m currently learning **React.js, RTK, Next.js,**
 
 - 👯 I’m looking to collaborate on [leafmen](Leafmen.co)
 
-- 👨‍💻 All of my projects are available at [https://myportfolioportfolio.netlify.app/](https://myportfolioportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amarjeetajx.netlify.app/](https://amarjeetajx.netlify.app/)
 
-- 💬 Ask me about **Front-end , MERN**
+- 💬 Ask me about **Full-Stack  , MERN**
 
 - 📫 How to reach me **chauhanamarjeet116@gmail.com**
 
